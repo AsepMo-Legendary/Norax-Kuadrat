@@ -1,0 +1,6 @@
+{
+  "name": "Norax Kuadrat",
+  "description": "Multipurpose utility app with Blogger, Flickr, and YouTube setup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
